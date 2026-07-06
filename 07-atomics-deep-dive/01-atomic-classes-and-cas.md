@@ -38,7 +38,7 @@
 - **Baeldung – "An Introduction to Atomic Variables in Java"**: https://www.baeldung.com/java-atomic-variables
 - **Baeldung – "Compare and Swap in Java"**: https://www.baeldung.com/java-compare-and-swap
 - **`AtomicInteger` / `AtomicReference` source** — open in IDE; see the VarHandle plumbing and how thin the classes really are.
-- **Maged Michael Pragmatic Implementation Non-Blocking Linked Lists: https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://timharris.uk/papers/2001-disc.pdf&ved=2ahUKEwj6qvLnir6VAxUkVkEAHVZoDvcQFnoECCEQAQ&usg=AOvVaw24RK5STHAVw9cw0vdkHbWV
+- **Maged Michael Pragmatic Implementation Non-Blocking Linked Lists**: https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://timharris.uk/papers/2001-disc.pdf&ved=2ahUKEwj6qvLnir6VAxUkVkEAHVZoDvcQFnoECCEQAQ&usg=AOvVaw24RK5STHAVw9cw0vdkHbWV
 
 ## ❓ Senior interview questions
 
