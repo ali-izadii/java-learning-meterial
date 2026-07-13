@@ -75,6 +75,14 @@
 - [ ] 🔴 [Off-Heap: Direct Buffers, Unsafe, MemorySegment](08-memory-allocation-deep-dive/05-off-heap-direct-memory-native.md)
 - [ ] 🟡 [Heap Sizing, Container Awareness & the OOM Taxonomy](08-memory-allocation-deep-dive/06-heap-sizing-containers-oom.md)
 
+## 9. Instrumentation
+
+- [ ] 🟢 [Instrumentation Fundamentals & Observability Signals](09-instrumentation/01-instrumentation-fundamentals.md)
+- [ ] 🟢 [Metrics with Micrometer & Prometheus](09-instrumentation/02-metrics-with-micrometer-prometheus.md)
+- [ ] 🟡 [Distributed Tracing with OpenTelemetry](09-instrumentation/03-distributed-tracing-opentelemetry.md)
+- [ ] 🔴 [Java Agents & Bytecode Instrumentation](09-instrumentation/04-java-agents-bytecode-instrumentation.md)
+- [ ] 🟡 [Production Telemetry Pipelines & Safety](09-instrumentation/05-production-telemetry-pipelines-safety.md)
+
 ---
 
 ## Core bookshelf (referenced across topics)
